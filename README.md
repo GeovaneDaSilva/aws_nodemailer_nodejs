@@ -18,3 +18,8 @@ Cualquier duda, puedes entrar en contacto conmigo, sera un gusto ayudarte!!!
 
 Suerte en tu proyecto!!!
 
+https://nodemailer.com/about/
+
+https://console.aws.amazon.com/ses/home?region=us-east-1#smtp-settings:
+
+https://expressjs.com/es/starter/hello-world.html
